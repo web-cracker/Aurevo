@@ -3,6 +3,13 @@
 ### *Your Journey, Curated. Your Luxury, Personalized.*
 
 
+
+<img width="1462" height="833" alt="Screenshot 2025-11-23 at 2 29 13 PM" src="https://github.com/user-attachments/assets/c528de02-f744-4139-a979-aac6496a0a2d" />
+
+
+<img width="1462" height="833" alt="Screenshot 2025-11-23 at 2 29 55 PM" src="https://github.com/user-attachments/assets/d39b8010-eae6-4e37-a4a4-10515040e8c4" />
+
+
 <img width="2400" height="1600" alt="AUREVO (1)" src="https://github.com/user-attachments/assets/8f1fd228-c790-473a-a946-50c602faff74" />
 
 
@@ -103,7 +110,7 @@ aurevo/
 ## 🧪 Live Demo
 
 Try the interactive demo here:
-👉 **[https://aurevo.techzipe.com](https://aurevo.vercel.app)** *(or your Vercel deployment)*
+👉 **[Visit Demo Site](https://aurevo-ai.vercel.app)**
 
 ---
 
