@@ -2,8 +2,9 @@
 
 ### *Your Journey, Curated. Your Luxury, Personalized.*
 
-![Aurevo](<img width="2400" height="1600" alt="AUREVO (1)" src="https://github.com/user-attachments/assets/aa236432-11ca-41b6-beab-c6c2941082e4" />
-)
+
+<img width="2400" height="1600" alt="AUREVO (1)" src="https://github.com/user-attachments/assets/8f1fd228-c790-473a-a946-50c602faff74" />
+
 
 ---
 
@@ -159,7 +160,7 @@ The result is a travel concierge that improves every time you use it.
 
 ## 🙌 Contributors
 
-**Z. Stark (Techzipe)**
+**Zuber Ahamad (Techzipe)**
 Founder, Full-Stack Developer, AI Engineer
 
 Contributions welcome — PRs, issues, and feature requests.
