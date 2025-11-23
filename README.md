@@ -1,36 +1,178 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 📍 **AUREVO — AI Luxury Travel Concierge**
 
-## Getting Started
+### *Your Journey, Curated. Your Luxury, Personalized.*
 
-First, run the development server:
+![Aurevo](<img width="2400" height="1600" alt="AUREVO (1)" src="https://github.com/user-attachments/assets/aa236432-11ca-41b6-beab-c6c2941082e4" />
+)
+
+---
+
+## 🚀 Overview
+
+**AUREVO** is the world’s first AI-powered luxury travel concierge designed for *everyone*.
+It blends intelligent itinerary planning, preference modeling, and real-time travel insights to deliver curated journeys—whether you're a student, solo explorer, digital nomad, or luxury traveler.
+
+AUREVO thinks like a concierge, plans like an expert, and cares like a human.
+
+---
+
+## ⭐ Features
+
+### **✓ AI-Generated Luxury Itineraries**
+
+Hyper-personalized travel plans based on style, budget, preferences, and destinations.
+
+### **✓ Real-Time Alerts & Recommendations**
+
+Live updates on deals, weather, experiences, and travel changes.
+
+### **✓ Dual-Tier Experience**
+
+* **Free Tier** – Smart assistant for quick trip planning
+* **Premium Tier** – Elite concierge + human escalation
+
+### **✓ Built for Global Travelers**
+
+From budget-friendly escapes to premium luxury journeys.
+
+### **✓ Interactive Demo Included**
+
+A live, frontend-only demo lets users experience how the concierge thinks.
+
+---
+
+## 🧠 Tech Stack
+
+**Languages:**
+TypeScript, JavaScript, Python
+
+**Frontend:**
+Next.js PWA, React, TailwindCSS, ShadCN UI, Framer Motion
+
+**Backend / APIs:**
+Supabase, Supabase Edge Functions, Clerk Auth, Firecrawl, LangChain, OpenAI GPT Models
+
+**Database:**
+Supabase PostgreSQL + Vector Store (embeddings)
+
+**Other:**
+Cloudflare CDN, Webhooks, JWT, PWA Offline Mode
+
+---
+
+## 📦 Installation
 
 ```bash
+git clone https://github.com/techzipe/aurevo.git
+cd aurevo
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Your development server starts at:
+👉 [http://localhost:3000](http://localhost:3000)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🗂 Project Structure
 
-## Learn More
+```
+aurevo/
+│
+├── app/
+│   ├── page.tsx
+│   ├── components/
+│   │   └── AurevoDemo.tsx
+│   ├── favicon.svg
+│   └── layout.tsx
+│
+├── public/
+│   ├── banner.png
+│   └── favicon.svg
+│
+├── styles/
+│   └── globals.css
+│
+├── README.md
+└── package.json
+```
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🧪 Live Demo
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Try the interactive demo here:
+👉 **[https://aurevo.techzipe.com](https://aurevo.vercel.app)** *(or your Vercel deployment)*
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🛠 Development Scripts
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+```bash
+npm run dev      # start development
+npm run build    # production build
+npm run start    # start production server
+```
+
+---
+
+## 🧩 How It Works
+
+AUREVO uses:
+
+* LLM reasoning + preference modeling
+* Real-time data from Firecrawl + APIs
+* Taste profiling with vector embeddings
+* AI-generated itineraries and suggestions
+* Dynamic adjustment based on user feedback
+
+The result is a travel concierge that improves every time you use it.
+
+---
+
+## 📌 Roadmap
+
+### **Q1**
+
+* Core MVP
+* Itinerary engine
+* Basic user preference memory
+
+### **Q2**
+
+* AI personality engine
+* Live travel data
+* Smarter recommendations
+
+### **Q3**
+
+* Premium concierge + human add-on
+* Loyalty, benefits, surprise upgrades
+
+### **Q4**
+
+* 100+ country support
+* AR/VR previews
+* Lifestyle management features
+
+---
+
+## 🙌 Contributors
+
+**Z. Stark (Techzipe)**
+Founder, Full-Stack Developer, AI Engineer
+
+Contributions welcome — PRs, issues, and feature requests.
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.
+Feel free to use, modify, distribute, and adapt.
+
+---
+
+## ⭐ Support
+
+If you like the project, please ⭐ star the repo and share feedback!
