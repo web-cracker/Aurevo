@@ -3,12 +3,15 @@
 ### *Your Journey, Curated. Your Luxury, Personalized.*
 
 
+### Landing Page
 
 <img width="1462" height="833" alt="Screenshot 2025-11-23 at 2 29 13 PM" src="https://github.com/user-attachments/assets/c528de02-f744-4139-a979-aac6496a0a2d" />
 
+### Select Your Travel style
 
 <img width="1462" height="833" alt="Screenshot 2025-11-23 at 2 29 55 PM" src="https://github.com/user-attachments/assets/d39b8010-eae6-4e37-a4a4-10515040e8c4" />
 
+### Logo of AUREVO
 
 <img width="2400" height="1600" alt="AUREVO (1)" src="https://github.com/user-attachments/assets/8f1fd228-c790-473a-a946-50c602faff74" />
 
